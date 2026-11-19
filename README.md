@@ -49,6 +49,10 @@ This package holds configuration only: no local code, no binaries, no credential
 
 The catalog is free to use. The traveler buys on getwigoo.com through the link `get_quote` returns, with an email address and no account.
 
+## Support
+
+support@getwigoo.com · [getwigoo.com/en/support](https://getwigoo.com/en/support)
+
 ## License
 
 MIT for what is in this repository. The Wigoo service itself is not open source.
