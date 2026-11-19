@@ -1,0 +1,10 @@
+{
+  "identifier": "wigoo",
+  "name": "Wigoo",
+  "version": "1.0.0",
+  "description": "Travel eSIM plans for 190+ countries and regions: networks, data, validity, prices in the traveler's currency and a link to buy.",
+  "homepage": "https://docs.getwigoo.com/mcp",
+  "icon": "https://getwigoo.com/apple-icon.png",
+  "tags": ["travel", "esim", "roaming", "mobile-data"],
+  "url": "https://api.getwigoo.com/api/mcp"
+}

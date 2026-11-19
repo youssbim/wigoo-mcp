@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wigoo": {
+      "type": "http",
+      "url": "https://api.getwigoo.com/api/mcp"
+    }
+  }
+}
