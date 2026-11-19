@@ -5,7 +5,8 @@
   "description": "Wigoo, the AI travel companion. Today: travel eSIMs for 190+ countries and regions, with networks, data, validity, prices in the traveler's currency and a link to buy. Trip planning and more travel services are coming to the same server.",
   "author": {
     "name": "Wigoo Labs LLC",
-    "url": "https://getwigoo.com"
+    "url": "https://getwigoo.com",
+    "email": "support@getwigoo.com"
   },
   "homepage": "https://docs.getwigoo.com/mcp",
   "repository": "https://github.com/youssbim/wigoo-mcp",
