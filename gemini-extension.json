@@ -1,0 +1,11 @@
+{
+  "name": "wigoo",
+  "version": "1.0.0",
+  "description": "Wigoo, the AI travel companion. Today: travel eSIMs for 190+ countries and regions, with networks, data, validity, prices in the traveler's currency and a link to buy. Trip planning and more travel services are coming to the same server.",
+  "mcpServers": {
+    "wigoo": {
+      "httpUrl": "https://api.getwigoo.com/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

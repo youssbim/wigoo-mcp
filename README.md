@@ -18,6 +18,12 @@ claude mcp add --transport http wigoo https://api.getwigoo.com/api/mcp
 
 Any other MCP client: add `https://api.getwigoo.com/api/mcp` as a remote server over Streamable HTTP. No sign-in and no key. See the [quickstart](https://docs.getwigoo.com/mcp/quickstart).
 
+In Gemini CLI:
+
+```bash
+gemini extensions install https://github.com/youssbim/wigoo-mcp
+```
+
 To add only the skill:
 
 ```bash
