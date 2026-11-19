@@ -1,6 +1,10 @@
 # Wigoo
 
-[Wigoo](https://getwigoo.com) gives your AI assistant the catalog of travel eSIMs for more than 190 countries and regions: which destinations are covered, which mobile networks each plan uses, data sizes and validity, unlimited day passes and top ups, and the price in 55 currencies, with a link to buy.
+[Wigoo](https://getwigoo.com) is an AI travel companion, and this server brings it into your AI assistant.
+
+**Today** it covers mobile data abroad: the catalog of travel eSIMs for more than 190 countries and regions, which mobile networks each plan uses, data sizes and validity, unlimited day passes and top ups, and the price in 55 currencies, with a link to buy.
+
+**Coming next** to the same server: planning a trip and the other travel services Wigoo offers in its app. New tools appear here without changing how you connect.
 
 This repository holds the MCP server's connection details, an agent skill and the plugin manifests. The server itself is hosted at `https://api.getwigoo.com/api/mcp`.
 

@@ -2,9 +2,15 @@
   "identifier": "wigoo",
   "name": "Wigoo",
   "version": "1.0.0",
-  "description": "Travel eSIM plans for 190+ countries and regions: networks, data, validity, prices in the traveler's currency and a link to buy.",
+  "description": "Wigoo, the AI travel companion. Today: travel eSIMs for 190+ countries and regions, with networks, data, validity, prices in the traveler's currency and a link to buy. Trip planning and more travel services are coming to the same server.",
   "homepage": "https://docs.getwigoo.com/mcp",
   "icon": "https://getwigoo.com/apple-icon.png",
-  "tags": ["travel", "esim", "roaming", "mobile-data"],
+  "tags": [
+    "travel",
+    "trip-planning",
+    "esim",
+    "roaming",
+    "mobile-data"
+  ],
   "url": "https://api.getwigoo.com/api/mcp"
 }

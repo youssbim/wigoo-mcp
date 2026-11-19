@@ -1,11 +1,11 @@
 ---
 name: wigoo
-description: Find a travel eSIM for a trip with Wigoo (190+ countries and regions): which destinations are covered, which networks a plan uses, data and validity options, the price in the traveler's currency, and the link to buy. Use when the user is going abroad and asks about mobile data, roaming or an eSIM.
+description: Help a traveler with Wigoo, the AI travel companion. Today the tools cover mobile data abroad (travel eSIMs for 190+ countries and regions: networks, data, validity, price in the traveler's currency and the link to buy). Use when the user is planning a trip abroad and asks about mobile data, roaming or an eSIM, or whether their phone will work there.
 ---
 
 # Wigoo
 
-Wigoo sells data eSIMs for travelers. The MCP server at `https://api.getwigoo.com/api/mcp` is a read-only catalog: it needs no account and no key, and it never places orders.
+Wigoo is an AI travel companion. Today its MCP server covers mobile data abroad with travel eSIMs; trip planning and more travel services will be added to the same server. Use the tools the server lists, not this page, to know what is available. The MCP server at `https://api.getwigoo.com/api/mcp` is a read-only catalog: it needs no account and no key, and it never places orders.
 
 ## How to help a traveler
 

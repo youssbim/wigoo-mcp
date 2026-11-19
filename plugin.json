@@ -2,10 +2,20 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "wigoo",
   "version": "1.0.0",
-  "description": "Travel eSIM plans for 190+ countries and regions: networks, data, validity, prices in the traveler's currency and a link to buy.",
-  "author": { "name": "Wigoo Labs LLC", "url": "https://getwigoo.com" },
+  "description": "Wigoo, the AI travel companion. Today: travel eSIMs for 190+ countries and regions, with networks, data, validity, prices in the traveler's currency and a link to buy. Trip planning and more travel services are coming to the same server.",
+  "author": {
+    "name": "Wigoo Labs LLC",
+    "url": "https://getwigoo.com"
+  },
   "homepage": "https://docs.getwigoo.com/mcp",
   "repository": "https://github.com/youssbim/wigoo-mcp",
   "license": "MIT",
-  "keywords": ["travel", "esim", "mcp", "roaming", "mobile-data"]
+  "keywords": [
+    "travel",
+    "trip-planning",
+    "esim",
+    "mcp",
+    "roaming",
+    "mobile-data"
+  ]
 }
